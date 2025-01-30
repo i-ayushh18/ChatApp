@@ -30,9 +30,11 @@ With WebSockets, our chat app allows for instant message delivery with low laten
 ```bash
 git clone https://github.com/i-ayushh18/ChatApp.git
 cd ChatApp
-
+```
+```
 Install dependencies:
 npm install
+```
 
 3️⃣ Set up the backend WebSocket server:
 ```sh
